@@ -5,6 +5,15 @@
 #EXTVLCOPT:schedule-timezone=Europe/Istanbul
 #EXTVLCOPT:linear-random=false
 #EXTVLCOPT:start-at=0
+
+
+#EXTM3U
+#EXTINF:-1 group-title="TV",قناتي
+#EXTVLCOPT:http-player-type=linear
+#EXTVLCOPT:schedule-reset=monthly
+#EXTVLCOPT:schedule-timezone=Europe/Istanbul
+#EXTVLCOPT:linear-random=false
+#EXTVLCOPT:start-at=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://carateen.tv/
 #EPISODE:0001 - صقور الأرض - 1.  الحلقة الأولى
@@ -6109,6 +6118,12 @@ https://pegasus.5387692.xyz/api/hls/4408/playlist.m3u8?log=https://up6.cc/2026/0
 
 
 
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cpDNuUlZ4e4/maxresdefault.jpg"  group-title="TV",كرتوون زمان
 #EXTVLCOPT:http-player-type=linear
@@ -6116,10 +6131,6 @@ https://pegasus.5387692.xyz/api/hls/4408/playlist.m3u8?log=https://up6.cc/2026/0
 #EXTVLCOPT:schedule-timezone=Europe/Istanbul
 #EXTVLCOPT:linear-random=false
 #EXTVLCOPT:start-at=0
-
-
-
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://carateen.tv/
@@ -99411,7 +99422,6 @@ https://fvideo6d.ddns.me:443/2vod5n/bab-9-1.mp4/playlist.m3u8?log=https://up6.cc
 #EPISODE:363 - باب الحارة 9 الحلقة مريرة
 #EXTDUR:65
 https://fvideo6d.ddns.me:443/2vod5n/1291.mp4/playlist.m3u8?log=https://up6.cc/2026/05/177955923000891.png&logw=140&logh=50&logpos=top-right
-
 
 
 
